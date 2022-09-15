@@ -5,7 +5,8 @@ A Repo to articulate the road map to re-learn
 Stage 01: Node CLI tool create-vanilla-website
 - Create index.html, styles.css, app.js
 - Add reset.css
-##Project Repo: https://github.com/noobe/create-vanilla-project-cli
+ 
+Project Repo: https://github.com/noobe/create-vanilla-project-cli
 
 Stage 02: Static website.
 - Responsive website with vanilla html/css/js
