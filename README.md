@@ -6,7 +6,7 @@ Stage 01: Node CLI tool create-vanilla-website
 - Create index.html, styles.css, app.js
 - Add reset.css
  
-Project Repo: https://github.com/noobe/create-vanilla-project-cli
+Project Repo: https://github.com/noobe/rm-01-create-vanilla-project-cli
 
 Stage 02: Static website.
 - Responsive website with vanilla html/css/js
@@ -15,6 +15,8 @@ Stage 02: Static website.
 - ESLint rules
 - Deploy using some form of CI/CD
 - Explore ways to deploy on cloud
+
+Project Repo: https://github.com/noobe/rm-02-static-sites-layouts
 
 Stage 03: Static website with forms that take synchronous requets.
 - Responsive website with vanilla html/js
@@ -28,6 +30,8 @@ Stage 03: Static website with forms that take synchronous requets.
 - Deploy using some form of CI/CD
 - Explore ways to deploy on cloud
 
+Project Repo: https://github.com/noobe/rm-03-fullstack-static-site
+
 Stage 04: Dynamic website with backend templating.
 - Responsive website with vanilla html/js
 - Use SCSS for styles and setup transpilation process
@@ -39,6 +43,8 @@ Stage 04: Dynamic website with backend templating.
 - Unit testing
 - Deploy using some form of CI/CD
 - Explore ways to deploy on cloud
+
+Project Repo: https://github.com/noobe/rm-04-backend-templating
 
 Stage 05: Vanilla JS SPA.
 - Responsive website with vanilla html/js
@@ -52,6 +58,8 @@ Stage 05: Vanilla JS SPA.
 - Accessibility/Performance(WebVitals)
 - Deploy using some form of CI/CD
 - Explore ways to deploy on cloud
+
+Project Repo: https://github.com/noobe/rm-05-vanilla-spa
 
 Stage 06: React + Redux App.
 - Responsive website with React
@@ -67,6 +75,8 @@ Stage 06: React + Redux App.
 - Deploy using some form of CI/CD
 - Explore ways to deploy on cloud
 
+Project Repo: https://github.com/noobe/rm-06-react-redux
+
 Stage 07: Component Library
 - Add most common components in React
 - Material Design + Styled Components
@@ -74,6 +84,8 @@ Stage 07: Component Library
 - TypeScript Integration
 - Storybook integration
 - Publish it to GitHub
+
+Project Repo: https://github.com/noobe/rm-07-react-component-library
 
 Stage 08: React + Redux + Component Library
 - Responsive website with React based UI + Redux for State management
@@ -87,3 +99,5 @@ Stage 08: React + Redux + Component Library
 - Performance(WebVitals)
 - Deploy using some form of CI/CD
 - Explore ways to deploy on cloud
+
+Project Repo: https://github.com/noobe/rm-08-react-with-library-components
